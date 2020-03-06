@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">699616168196-7itl53j2t3onpl7tgd7iplcqm6i47a2u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://chunods.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">699616168196</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7DrsUVNONmnWOXz4lOBUinM13TRDmY0g</string>
+    <string name="google_app_id" translatable="false">1:699616168196:android:1d76cc2d8482a739886851</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7DrsUVNONmnWOXz4lOBUinM13TRDmY0g</string>
+    <string name="google_storage_bucket" translatable="false">chunods.appspot.com</string>
+    <string name="project_id" translatable="false">chunods</string>
+</resources>

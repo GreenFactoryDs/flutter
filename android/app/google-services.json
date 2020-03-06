@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "699616168196",
+    "firebase_url": "https://chunods.firebaseio.com",
+    "project_id": "chunods",
+    "storage_bucket": "chunods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699616168196:android:1d76cc2d8482a739886851",
+        "android_client_info": {
+          "package_name": "ktdsbuddy.com.lostfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699616168196-upm60es6gltdqki6s413pkms2vpr6m8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ktdsbuddy.com.lostfound",
+            "certificate_hash": "c71ca0dd98fefee44adc5eb56f9f1da13ce72485"
+          }
+        },
+        {
+          "client_id": "699616168196-3c3ve83t5e63qpc0e4udtvrar2nrc11u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ktdsbuddy.com.lostfound",
+            "certificate_hash": "ecb8dd7a1b0e2b794cf233be54fb80248f8ac4c8"
+          }
+        },
+        {
+          "client_id": "699616168196-7itl53j2t3onpl7tgd7iplcqm6i47a2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7DrsUVNONmnWOXz4lOBUinM13TRDmY0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699616168196-7itl53j2t3onpl7tgd7iplcqm6i47a2u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699616168196-bnaeofn5sru3bvpcv1ngvjv6h35do1rm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ktdsbuddy.firebaseconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
