@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>699616168196-0pmdvmm1ppobujg0m30lqst8jqnvh5cd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.699616168196-0pmdvmm1ppobujg0m30lqst8jqnvh5cd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>699616168196-upm60es6gltdqki6s413pkms2vpr6m8f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAK2AYpM1kKDTpOjS43tM3EXcbdAfLXwxo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>699616168196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ktdsbuddy.com.lostfound</string>
+	<key>PROJECT_ID</key>
+	<string>chunods</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chunods.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:699616168196:ios:8f3f5fdb2bf59638886851</string>
+	<key>DATABASE_URL</key>
+	<string>https://chunods.firebaseio.com</string>
+</dict>
+</plist>
