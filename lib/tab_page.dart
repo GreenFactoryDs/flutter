@@ -3,7 +3,6 @@ import 'package:lostfound/account_page.dart';
 import 'package:lostfound/home_page.dart';
 import 'package:lostfound/search_page.dart';
 import 'package:flutter/material.dart';
-import 'package:lostfound/timeline.dart';
 import 'package:provider/provider.dart';
 
 import 'BottomNavigationBarProvider.dart';
@@ -64,7 +63,7 @@ class _TabPageState extends State<TabPage> {
      _pages = [
       HomePage(widget.user),
       SearchPage(widget.user),
-       TimelinePage(title: 'Muslim Civilisation Doodles'),
+      AccountPage(widget.user)
     ];
     _pageController = PageController();
 
